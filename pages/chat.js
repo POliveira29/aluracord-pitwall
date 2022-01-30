@@ -180,7 +180,7 @@ function MessageList(props) {
     <Box
       tag="ul"
       styleSheet={{
-        overflow: "scroll",
+        overflow: "overlay",
         display: "flex",
         flexDirection: "column-reverse",
         flex: 1,
